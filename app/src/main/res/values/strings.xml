@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorkManagerDemo</string>
+    <string name="btnEnqueue">加入队列</string>
+</resources>
